@@ -1,4 +1,8 @@
 (sym_lib_table
   (version 7)
   (lib (name "ECE445L")(type "KiCad")(uri "${KIPRJMOD}/../Part Libraries/symbols/ECE445L.kicad_sym")(options "")(descr ""))
+  (lib (name "AD5061BRJZ_1500RL7")(type "KiCad")(uri "C:/Keil_v5/ece-445l-lab-6-chengkun-yang/hw/AD5061BRJZ_1500RL7/KiCADv6/AD5061BRJZ_1500RL7.kicad_sym")(options "")(descr ""))
+  (lib (name "AD822ARZ")(type "KiCad")(uri "C:/Keil_v5/ece-445l-lab-6-chengkun-yang/hw/AD822ARZ/KiCADv6/AD822ARZ.kicad_sym")(options "")(descr ""))
+  (lib (name "PTA2043-2015CPB103")(type "KiCad")(uri "C:/Keil_v5/ece-445l-lab-6-chengkun-yang/hw/PTA2043-2015CPB103.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS526_SK15_SMTR2_LFS")(type "KiCad")(uri "C:/Keil_v5/ece-445l-lab-6-chengkun-yang/hw/PTS526_SK15_SMTR2_LFS.kicad_sym")(options "")(descr ""))
 )
